@@ -10,18 +10,8 @@ Users can:
 
 ## 📂 Project Structure
 
-src/
-└── main/
-    └── java/
-        └── org/
-            └── example/
-                ├── DB/
-                │   └── DBConnection.java         # Database connection utility
-                ├── DAO/
-                │   └── CandidateDAO.java         # Handles DB operations
-                ├── Model/
-                │   └── Candidate.java            # Candidate data class
-                └── Main.java                     # Main CLI logic (menu, I/O)
+![image](https://github.com/user-attachments/assets/12bbcde2-a00a-4560-b8ab-3b6d881ec3b5)
+
 
 
 ---
